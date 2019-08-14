@@ -2,16 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9042358-faec-4adc-badd-d5aebe80b268" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/try.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/changePower.php" beforeDir="false" afterPath="$PROJECT_DIR$/changePower.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/CHANGELOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/bootstrap-paginator.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/build/bootstrap-paginator.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/bootstrapv3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/bootstrapv3.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/documentation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/arta.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/ascetic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/brown_paper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/brown_papersq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/far.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/googlecode.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/idea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/ir_black.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/magula.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/monokai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/pojoaque.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/pojoaque.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/rainbow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/school_book.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/school_book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/solarized_dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/solarized_light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/sunburst.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/tomorrow-night-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/tomorrow-night-bright.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/tomorrow-night-eighties.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/tomorrow-night.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/tomorrow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/vs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/xcode.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/highlight.js/zenburn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/css/qunit-1.11.0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/img/illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/lib/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/lib/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/lib/bootstrapv3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/lib/highlight.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/lib/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/lib/jquery.history.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/lib/qunit-1.11.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/src/bootstrap-paginator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/test/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-paginator-master/test/testv3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editors.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fenshowphoto.php" beforeDir="false" afterPath="$PROJECT_DIR$/fenshowphoto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginBack.php" beforeDir="false" afterPath="$PROJECT_DIR$/loginBack.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/showArticals.php" beforeDir="false" afterPath="$PROJECT_DIR$/showArticals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/showarticalsbackstage.php" beforeDir="false" afterPath="$PROJECT_DIR$/showarticalsbackstage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/b.php" beforeDir="false" afterPath="$PROJECT_DIR$/try/b.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writeArtaicle.php" beforeDir="false" afterPath="$PROJECT_DIR$/writeArtaicle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writeBackstage.php" beforeDir="false" afterPath="$PROJECT_DIR$/writeBackstage.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,82 +91,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/changePower.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-              <folding>
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backstage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try/b.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="319" column="66" selection-start-line="319" selection-start-column="66" selection-end-line="319" selection-end-column="66" />
-              <folding>
-                <element signature="e#6#42#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/showArticals.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="291" selection-start-line="291" selection-end-line="295" selection-end-column="27" />
-              <folding>
-                <element signature="e#6#42#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/loginBack.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="459" column="48" selection-start-line="459" selection-start-column="20" selection-end-line="459" selection-end-column="48" />
-              <folding>
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fenshowphoto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="481" column="15" selection-start-line="481" selection-start-column="15" selection-end-line="481" selection-end-column="43" />
+            <state relative-caret-position="406">
+              <caret line="546" column="48" lean-forward="true" selection-start-line="546" selection-start-column="48" selection-end-line="546" selection-end-column="48" />
               <folding>
                 <element signature="e#6#42#0#PHP" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
@@ -124,18 +115,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/showarticalsbackstage.php">
+        <entry file="file://$PROJECT_DIR$/showArticals.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1024">
-              <caret line="471" column="22" selection-start-line="471" selection-start-column="22" selection-end-line="471" selection-end-column="22" />
+            <state relative-caret-position="-160">
+              <caret line="534" selection-start-line="534" selection-end-line="543" selection-end-column="25" />
               <folding>
                 <element signature="e#6#42#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/showarticalsbackstage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="462" column="40" selection-start-line="462" selection-start-column="40" selection-end-line="462" selection-end-column="40" />
+              <folding>
+                <element signature="e#6#42#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,31 +141,65 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/writeArtaicle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="10714">
               <caret line="571" column="35" selection-start-line="571" selection-start-column="35" selection-end-line="571" selection-end-column="35" />
               <folding>
                 <element signature="e#6#42#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#2533#2537#0" expanded="true" />
-                <element signature="e#2538#2542#0" expanded="true" />
-                <element signature="e#2556#2560#0" expanded="true" />
-                <element signature="e#2562#2566#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/try.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+            <state relative-caret-position="396">
+              <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try.HTML">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
-                <element signature="e#2587#2594#1#HTML" expanded="true" />
-                <element signature="e#2794#2801#1#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#9;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#43#50#1" expanded="true" />
+                <element signature="e#43#50#1" expanded="true" />
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="970" column="33" selection-start-line="970" selection-start-column="25" selection-end-line="970" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/1c3e6709c93d70cfb6365798f0dcd100bba12b53.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -182,11 +213,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>id=&quot;cke_editor1&quot;</find>
-      <find>分页</find>
-      <find>where</find>
-      <find>ins</find>
-      <find>h1</find>
       <find>treeview-menu</find>
       <find>jque</find>
       <find>input</find>
@@ -212,6 +238,11 @@
       <find>ckeditor</find>
       <find>提交</find>
       <find>您</find>
+      <find>tab</find>
+      <find>$pageNumString</find>
+      <find>table</find>
+      <find>example1</find>
+      <find>Fixed Layout</find>
     </findStrings>
     <replaceStrings>
       <replace>/bower_components/ckeditor/plugins/icons.png</replace>
@@ -258,11 +289,14 @@
         <option value="$PROJECT_DIR$/showArticals.php" />
         <option value="$PROJECT_DIR$/writeBackstage.php" />
         <option value="$PROJECT_DIR$/try/b.php" />
-        <option value="$PROJECT_DIR$/fenshowphoto.php" />
         <option value="$PROJECT_DIR$/changePower.php" />
-        <option value="$PROJECT_DIR$/showarticalsbackstage.php" />
         <option value="$PROJECT_DIR$/writeArtaicle.php" />
         <option value="$PROJECT_DIR$/try.php" />
+        <option value="$PROJECT_DIR$/data.html" />
+        <option value="$PROJECT_DIR$/2.php" />
+        <option value="$PROJECT_DIR$/fenshowphoto.php" />
+        <option value="$PROJECT_DIR$/try.HTML" />
+        <option value="$PROJECT_DIR$/showarticalsbackstage.php" />
       </list>
     </option>
   </component>
@@ -303,7 +337,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,24 +347,65 @@
             <path>
               <item name="chang" type="b2602c69:ProjectViewProjectNode" />
               <item name="chang" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-paginator-master" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chang" type="b2602c69:ProjectViewProjectNode" />
               <item name="chang" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-paginator-master" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chang" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chang" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chang" type="b2602c69:ProjectViewProjectNode" />
               <item name="chang" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-paginator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chang" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="chang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </path>
+            <path>
+              <item name="chang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP" type="5114b859:PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+              <item name="chang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,18 +470,19 @@
       <workItem from="1565398032354" duration="2922000" />
       <workItem from="1565578207938" duration="2005000" />
       <workItem from="1565673601128" duration="18220000" />
-      <workItem from="1565742759431" duration="7810000" />
+      <workItem from="1565742759431" duration="8409000" />
+      <workItem from="1565777748359" duration="3333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100496000" />
+    <option name="totallyTimeSpent" value="104428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.17773306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.18041582" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.15694165" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -433,39 +508,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/photo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try/css2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/iCheck/polaris/polaris.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/iCheck/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/iCheck/icheck.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/try/a.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -511,27 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="38" column="136" selection-start-line="9" selection-start-column="4" selection-end-line="38" selection-end-column="136" />
-          <folding>
-            <element signature="n#style#0;n#font#0;n#p#0;n#li#0;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#font#0;n#p#0;n#li#0;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#small#0;n#font#0;n#p#0;n#li#0;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#1;n#font#0;n#p#0;n#li#0;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#small#0;n#p#0;n#li#0;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#a#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#font#0;n#a#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#a#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#font#0;n#a#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#a#0;n#div#2;n#div#0;n#li#1;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#font#0;n#a#0;n#div#2;n#div#0;n#li#1;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#a#0;n#div#0;n#li#2;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#font#0;n#a#0;n#div#0;n#li#2;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#a#0;n#div#1;n#li#2;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#font#0;n#a#0;n#div#1;n#li#2;n#ul#0;n#ul#0;n#li#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#2;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#2;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#li#2;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#2;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,9 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1276">
           <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#textarea#0;n#form#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -647,9 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/submitPhotos.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -680,74 +695,10 @@
     <entry file="file://$PROJECT_DIR$/writeBackstage.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/try/b.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="319" column="66" selection-start-line="319" selection-start-column="66" selection-end-line="319" selection-end-column="66" />
-          <folding>
-            <element signature="e#6#42#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loginBack.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="459" column="48" selection-start-line="459" selection-start-column="20" selection-end-line="459" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/showArticals.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="291" selection-start-line="291" selection-end-line="295" selection-end-column="27" />
-          <folding>
-            <element signature="e#6#42#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/showarticalsbackstage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1024">
-          <caret line="471" column="22" selection-start-line="471" selection-start-column="22" selection-end-line="471" selection-end-column="22" />
-          <folding>
-            <element signature="e#6#42#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/changePower.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -758,16 +709,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fenshowphoto.php">
+    <entry file="file://$PROJECT_DIR$/try/b.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="481" column="15" selection-start-line="481" selection-start-column="15" selection-end-line="481" selection-end-column="43" />
+        <state relative-caret-position="5522">
+          <caret line="319" column="66" selection-start-line="319" selection-start-column="66" selection-end-line="319" selection-end-column="66" />
           <folding>
             <element signature="e#6#42#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginBack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10098">
+          <caret line="459" column="48" selection-start-line="459" selection-start-column="20" selection-end-line="459" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -780,26 +735,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/writeArtaicle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="10714">
           <caret line="571" column="35" selection-start-line="571" selection-start-column="35" selection-end-line="571" selection-end-column="35" />
           <folding>
             <element signature="e#6#42#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2533#2537#0" expanded="true" />
-            <element signature="e#2538#2542#0" expanded="true" />
-            <element signature="e#2556#2560#0" expanded="true" />
-            <element signature="e#2562#2566#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/section.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/1c3e6709c93d70cfb6365798f0dcd100bba12b53.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/try.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        <state relative-caret-position="396">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="970" column="33" selection-start-line="970" selection-start-column="25" selection-end-line="970" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <element signature="e#2587#2594#1#HTML" expanded="true" />
-            <element signature="e#2794#2801#1#HTML" expanded="true" />
+            <element signature="e#43#50#1" expanded="true" />
+            <element signature="e#43#50#1" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fenshowphoto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="546" column="48" lean-forward="true" selection-start-line="546" selection-start-column="48" selection-end-line="546" selection-end-column="48" />
+          <folding>
+            <element signature="e#6#42#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.HTML">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#9;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showArticals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="534" selection-start-line="534" selection-end-line="543" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#42#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showarticalsbackstage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="462" column="40" selection-start-line="462" selection-start-column="40" selection-end-line="462" selection-end-column="40" />
+          <folding>
+            <element signature="e#6#42#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -461,10 +461,6 @@
     <div class="content-wrapper">
         <!-- Content Header (Page header) -->
         <section class="content-header">
-            <h1>
-                Fixed Layout
-                <small>Blank example to the fixed layout</small>
-            </h1>
             <?php
             session_start();//开始session必须放在最上面
             $id=$_GET['id'];
@@ -485,28 +481,28 @@
             }
             $sqlOne="select * from articals where id='{$id}'";
             $resultOne=mysqli_query($link,$sqlOne);
-            echo "<div class='aaaaa'>";
-            echo "<table border='1' class='table' align='center' cellpadding='2'>";
-            echo "<tr>";
-            echo "<th style='text-align: center'>";
-            echo "<h1 style='color: #a31515'>作者</h1>";
-            echo "</th>";
-            echo "<th>";
-            echo "<h1 style='color: #a31515'>作者：$arr[2] 时间：$arr[6] 类型：$arr[5] </h1>";echo "</th>";
-            echo "</tr>";
             while($arr=mysqli_fetch_row($resultOne)){
                 // echo $arr[1];
                 $count=$arr[6]+1;
                 mysqli_query($link,"update articals set count ='{$count}'  where id='{$id}'");
-                echo "<tr>";
-                echo "<td style='text-align: center'>";
-                echo "<span style='color: #a31515'>$arr[0]</span>";
-                echo "</td>";
-
-                echo "<td>";
+//                echo "<tr>";
+//                echo "<td style='text-align: center'>";
+//                echo "<span style='color: #a31515'>$arr[0]</span>";
+//                echo "</td>";
+//
+//                echo "<td>";
+//                echo "$arr[1]";
+//                echo "</td>";
+//                echo "</tr>";
+                echo "<h1 align='center'>$arr[3]</h1>";
+                echo "阅读量：$arr[6]";
+                echo "作者：$arr[2]";
+                echo "分类：$arr[4]";
+                echo "上传时间：$arr[5]";
+                echo "<br>";
+                echo "<div align='center'>";
                 echo "$arr[1]";
-                echo "</td>";
-                echo "</tr>";
+                echo "</div>";
             }
             echo "<tr>";
             echo "<td colspan='2' align='center'>";
