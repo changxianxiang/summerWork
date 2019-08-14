@@ -452,24 +452,44 @@
                 $userResult=mysqli_query($link,"select * from information where userName='{$name}' and status='1'");
                 $rootResult=mysqli_query($link,"select * from information where userName='{$name}' and status='2'");
                 $admineResult=mysqli_query($link,"select * from admine where userName='{$name}'");
-                if($rootResult->num_rows>0){//管理员登陆
-                    $_SESSION['$name']=2;
-                    //var_dump($rootResult);
-                    //var_dump($admineResult);
+                if($rootResult->num_rows>0) {//管理员登
+                    $arr = mysqli_query($link, "select * from information where userName='{$name}'");
+                    $row = mysqli_fetch_array($arr, MYSQLI_NUM);//mysql中的值不能直接输出要转化
+                    if ($name == $row[1]) {
+                        if ($password == $row[5]) {
+                            $_SESSION['$name'] = 2;
+                            //var_dump($rootResult);
+                            //var_dump($admineResult);
 
-                    $_SESSION['afdgashyrhjnb/;']=2;
-                    $_SESSION['afdgashyrhjnb/.;']=$name;
-                    $_SESSION['sadfasdgo86.,']=$password;
+                            $_SESSION['afdgashyrhjnb/;'] = 2;
+                            $_SESSION['afdgashyrhjnb/.;'] = $name;
+                            $_SESSION['sadfasdgo86.,'] = $password;
 
-                    setcookie("$name", "$name");
+                            setcookie("$name", "$name");
+                        } else {
+                            echo "密码输入错误";
+                            exit();
+                        }
+                    }
                 }
-                elseif($admineResult->num_rows>0){//草鸡管理员登陆
-                    $_SESSION['$name']=3;
+                elseif($admineResult->num_rows>0) {//草鸡管理员登陆
+                    $arr = mysqli_query($link, "select * from admine where userName='{$name}'");
+                    $row = mysqli_fetch_array($arr, MYSQLI_NUM);//mysql中的值不能直接输出要转化
+                    if ($name == $row[1]) {
+                        if ($password == $row[5]) {
+                            $_SESSION['$name'] = 3;
 
-                    $_SESSION['afdgashyrhjnb/;']=3;
-                    $_SESSION['afdgashyrhjnb/.;']=$name;
-                    $_SESSION['sadfasdgo86.,']=$password;
-                    setcookie("$name", "$name");
+                            $_SESSION['afdgashyrhjnb/;'] = 3;
+                            $_SESSION['afdgashyrhjnb/.;'] = $name;
+                            $_SESSION['sadfasdgo86.,'] = $password;
+                            setcookie("$name", "$name");
+
+                            setcookie("$name", "$name");
+                        } else {
+                            echo "密码输入错误";
+                            exit();
+                        }
+                    }
                 }
                 else{//用户登陆
                     $sql = "select * from information where userName='{$name}'";
