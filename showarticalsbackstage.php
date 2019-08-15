@@ -464,11 +464,11 @@
             <?php
             session_start();//开始session必须放在最上面
             $id=$_GET['id'];
-//            if(!$_SESSION['afdgashyrhjnb/;']){
-//                echo "您无权查看";
-//                echo "<meta http-equiv=refresh content=\"2;url=index.php\">";
-//                exit();
-//            }
+            //            if(!$_SESSION['afdgashyrhjnb/;']){
+            //                echo "您无权查看";
+            //                echo "<meta http-equiv=refresh content=\"2;url=index.php\">";
+            //                exit();
+            //            }
             $pageSize=10;//一页显示的条数
             $link=mysqli_connect("localhost","root","root");
             if(!$link){
@@ -479,6 +479,25 @@
             }else{
                 exit();
             }
+            echo "<nav >
+                <ul class='pager' >";
+            $pre=$id-1;
+            $next=$id+1;
+            $sql="select * from articals ";
+            $result=mysqli_query($link,$sql);
+            $record=mysqli_num_rows($result);//总记录条数
+            if($pre>0)
+                echo "<div align='center'><li class='previous' ><a href='showarticalsbackstage.php?id=$pre'>上一篇</a></li></div>";
+            else
+                echo "<li class='previous disabled'><a href='#'>上一篇</a></li>";
+            if($next <= $record)
+                echo "<li class='next'><a href='showarticalsbackstage.php?id=$next'>下一篇</a></li>";
+            else
+                echo "<li class='next disabled'><a href='#'>下一篇</a></li>";
+
+
+            echo "</ul>
+            </nav>";
             $sqlOne="select * from articals where id='{$id}'";
             $resultOne=mysqli_query($link,$sqlOne);
             while($arr=mysqli_fetch_row($resultOne)){
@@ -512,22 +531,14 @@
             echo "</tr>";
             echo "</table>";
             echo "</div>";
+
             ?>
 
 
-            <ol class="breadcrumb">
-                <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-                <li><a href="#">Layout</a></li>
-                <li class="active">Fixed</li>
-            </ol>
         </section>
 
         <!-- Main content -->
         <section class="content">
-            <div class="callout callout-info">
-                <h4></h4>
-
-            </div>
             <!-- Default box -->
             <div class="box">
                 <!-- /.box-body -->
@@ -758,4 +769,3 @@
 <script src="dist/js/demo.js"></script>
 </body>
 </html>
-

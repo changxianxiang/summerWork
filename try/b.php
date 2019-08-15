@@ -529,6 +529,7 @@ if(!isset($_SESSION['afdgashyrhjnb/.;'])){
             });
             this.on(\"error\", function (file, data) {
                 // 上传失败触发的事件
+                alert(\"文件不合法\");
             });
             this.on(\"removedfile\", function (file) {
                 // 删除文件时触发的方法
