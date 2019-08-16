@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c9042358-faec-4adc-badd-d5aebe80b268" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/showArticals.php" beforeDir="false" afterPath="$PROJECT_DIR$/showArticals.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/showarticalsbackstage.php" beforeDir="false" afterPath="$PROJECT_DIR$/showarticalsbackstage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/b.php" beforeDir="false" afterPath="$PROJECT_DIR$/try/b.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fenshowphoto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="516" selection-start-line="516" selection-end-line="518" selection-end-column="52" />
+            <state relative-caret-position="494">
+              <caret line="530" column="17" lean-forward="true" selection-start-line="530" selection-start-column="17" selection-end-line="530" selection-end-column="17" />
               <folding>
                 <element signature="e#6#42#0#PHP" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
@@ -38,59 +38,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="3" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery-1.10.2.js">
+        <entry file="file://$PROJECT_DIR$/showarticalsbackstage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="430">
+              <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writeArtaicle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4644">
+              <caret line="556" column="45" selection-start-line="556" selection-start-column="45" selection-end-line="556" selection-end-column="45" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#6#42#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/loginBack.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="255" column="41" selection-start-line="255" selection-start-column="33" selection-end-line="255" selection-end-column="41" />
-              <folding>
-                <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/photoBack.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/showarticalsbackstage.php">
+        <entry file="file://$USER_HOME$/Desktop/chang (4)/writeArtaicle.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/showArticals.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="532" column="20" selection-start-line="532" selection-start-column="20" selection-end-line="532" selection-end-column="20" />
+            <state relative-caret-position="186">
+              <caret line="137" column="18" selection-start-line="137" selection-start-column="18" selection-end-line="137" selection-end-column="18" />
               <folding>
                 <element signature="e#6#42#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#26503#26509#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,7 +91,7 @@
         <entry file="file://$USER_HOME$/Desktop/summerWork-master/showarticalsbackstage.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+              <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -109,14 +100,7 @@
         <entry file="file://$USER_HOME$/Desktop/chang (4)/showarticalsbackstage.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -125,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/subbmit.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -133,15 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/changePower.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="5808">
               <caret line="264" column="41" selection-start-line="264" selection-start-column="33" selection-end-line="264" selection-end-column="41" />
-              <folding>
-                <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -157,14 +134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>input</find>
-      <find>file</find>
-      <find>onl</find>
-      <find>$_SESSION['afdgashyrhjnb/.;']</find>
-      <find>widgets</find>
-      <find>req</find>
-      <find>&lt;?php</find>
-      <find>&lt;?</find>
       <find>meta</find>
       <find>请登</find>
       <find>head.</find>
@@ -186,7 +155,15 @@
       <find>example1</find>
       <find>Fixed Layout</find>
       <find>callout callout-info</find>
+      <find>class=&quot;callout callout-info&quot;</find>
       <find>articals</find>
+      <find>&lt;?</find>
+      <find>$_SESSION[&quot;adfdfadsfdhykj&quot;]</find>
+      <find>aler</find>
+      <find>&lt;a</find>
+      <find>class=&quot;main-sidebar&quot;</find>
+      <find>Blank</find>
+      <find>class=&quot;main-header&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>/bower_components/ckeditor/plugins/icons.png</replace>
@@ -229,7 +206,6 @@
         <option value="$PROJECT_DIR$/pages/layout/fixed.php" />
         <option value="$PROJECT_DIR$/submmitwrite.php" />
         <option value="$PROJECT_DIR$/register.html" />
-        <option value="$PROJECT_DIR$/showArticals.php" />
         <option value="$PROJECT_DIR$/writeBackstage.php" />
         <option value="$PROJECT_DIR$/changePower.php" />
         <option value="$PROJECT_DIR$/writeArtaicle.php" />
@@ -240,6 +216,7 @@
         <option value="$PROJECT_DIR$/try.HTML" />
         <option value="$PROJECT_DIR$/loginBack.php" />
         <option value="$PROJECT_DIR$/try/b.php" />
+        <option value="$PROJECT_DIR$/showArticals.php" />
         <option value="$PROJECT_DIR$/showarticalsbackstage.php" />
       </list>
     </option>
@@ -281,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,6 +289,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,18 +356,18 @@
       <workItem from="1565673601128" duration="18220000" />
       <workItem from="1565742759431" duration="8409000" />
       <workItem from="1565777748359" duration="4639000" />
-      <workItem from="1565837870886" duration="7090000" />
+      <workItem from="1565837870886" duration="11293000" />
+      <workItem from="1565928213028" duration="3025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112824000" />
+    <option name="totallyTimeSpent" value="120052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.18309858" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.18578136" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.15694165" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,9 +393,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/try/dropzone.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php" />
     <entry file="file://$PROJECT_DIR$/photo.html" />
     <entry file="file://$PROJECT_DIR$/try/photoBack.php">
@@ -536,26 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/showArticals.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10186">
-          <caret line="534" selection-start-line="534" selection-end-line="543" selection-end-column="25" />
-          <folding>
-            <element signature="e#6#42#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/writeArtaicle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10714">
-          <caret line="571" column="35" selection-start-line="571" selection-start-column="35" selection-end-line="571" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#42#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/try.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1540">
@@ -616,27 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/changePower.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="264" column="41" selection-start-line="264" selection-start-column="33" selection-end-line="264" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="3" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-1.10.2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -648,28 +581,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loginBack.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="5610">
           <caret line="255" column="41" selection-start-line="255" selection-start-column="33" selection-end-line="255" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/photoBack.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
+        <state relative-caret-position="1012">
           <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/summerWork-master/showarticalsbackstage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/chang (4)/showarticalsbackstage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changePower.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5808">
+          <caret line="264" column="41" selection-start-line="264" selection-start-column="33" selection-end-line="264" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subbmit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showArticals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="137" column="18" selection-start-line="137" selection-start-column="18" selection-end-line="137" selection-end-column="18" />
           <folding>
+            <element signature="e#6#42#0#PHP" expanded="true" />
             <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
@@ -679,24 +643,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subbmit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/summerWork-master/showarticalsbackstage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fenshowphoto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="516" selection-start-line="516" selection-end-line="518" selection-end-column="52" />
+        <state relative-caret-position="494">
+          <caret line="530" column="17" lean-forward="true" selection-start-line="530" selection-start-column="17" selection-end-line="530" selection-end-column="17" />
           <folding>
             <element signature="e#6#42#0#PHP" expanded="true" />
             <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
@@ -708,19 +658,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/showarticalsbackstage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="532" column="20" selection-start-line="532" selection-start-column="20" selection-end-line="532" selection-end-column="20" />
+        <state relative-caret-position="430">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writeArtaicle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4644">
+          <caret line="556" column="45" selection-start-line="556" selection-start-column="45" selection-end-line="556" selection-end-column="45" />
           <folding>
             <element signature="e#6#42#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#26503#26509#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/chang (4)/writeArtaicle.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
