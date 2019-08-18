@@ -1,107 +1,15 @@
 <?php
-//session_start();//开始session必须放在最上面
-//include_once "head.php";
-//echo "<!DOCTYPE html>
-//<html>
-//<head>
-//
-//  <meta charset=\"utf-8\">
-//  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
-//  <title>AdminLTE 2 | Editors</title>
-//  <!-- Tell the browser to be responsive to screen width -->
-//  <meta content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\" name=\"viewport\">
-//  <!-- Bootstrap 3.3.7 -->
-//  <link rel=\"stylesheet\" href=\"bower_components/bootstrap/dist/css/bootstrap.min.css\">
-//  <!-- Font Awesome -->
-//  <link rel=\"stylesheet\" href=\"bower_components/font-awesome/css/font-awesome.min.css\">
-//  <!-- Ionicons -->
-//  <link rel=\"stylesheet\" href=\"bower_components/Ionicons/css/ionicons.min.css\">
-//  <!-- Theme style -->
-//  <link rel=\"stylesheet\" href=\"dist/css/AdminLTE.min.css\">
-//  <!-- AdminLTE Skins. Choose a skin from the css/skins
-//       folder instead of downloading all of them to reduce the load. -->
-//  <link rel=\"stylesheet\" href=\"dist/css/skins/_all-skins.min.css\">
-//  <!-- bootstrap wysihtml5 - text editor -->
-//  <link rel=\"stylesheet\" href=\"plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css\">
-//
-//  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-//  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-//  <!--[if lt IE 9]>
-//  <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>
-//  <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>
-//  <![endif]-->
-//<style>
-//
-//</style>
-//  <!-- Google Font -->
-//  <link rel=\"stylesheet\"
-//        href=\"https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic\">
-//</head>
-//<div align='center'>
-//<form>
-//</form>
-//</div>
-//<div class=\"box-body pad\" style=\"float:right;\">
-//  <form action= 'writeBackstage.php' method= 'post' >
-//                      题目：<input  class=\"in\" type=\"text\" name=\"title\" style='height: 30px ' autofocus align='center'><br>
-//                   分类 <select name='classical' style='height: 30px '>
-//                    <option>学习</option>
-//                    <option>娱乐</option>
-//                    <option>科技</option>
-//                    </select>
-//                    <textarea id=\"editor1\" name=\"editor1\" rows=\"10\" cols=\"80\" style=\"visibility: hidden; display: none;\">                                            This is my textarea to be replaced with CKEditor.
-//                    </textarea>
-//                    <input type='submit' style='width: 500px'>
-//  </form>
-//
-//</div>
-//
-//<!-- ./wrapper -->
-//
-//<!-- jQuery 3 -->
-//<script src=\"bower_components/jquery/dist/jquery.min.js\"></script>
-//<!-- Bootstrap 3.3.7 -->
-//<script src=\"bower_components/bootstrap/dist/js/bootstrap.min.js\"></script>
-//<!-- FastClick -->
-//<script src=\"bower_components/fastclick/lib/fastclick.js\"></script>
-//<!-- AdminLTE App -->
-//<script src=\"dist/js/adminlte.min.js\"></script>
-//<!-- AdminLTE for demo purposes -->
-//<script src=\"dist/js/demo.js\"></script>
-//<!-- CK Editor -->
-//<script src=\"bower_components/ckeditor/ckeditor.js\"></script>
-//<!-- Bootstrap WYSIHTML5 -->
-//<script src=\"plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js\"></script>
-//<script>
-//  $(function () {
-//    // Replace the <textarea id=\"editor1\"> with a CKEditor
-//    // instance, using default configuration.
-//    CKEDITOR.replace('editor1')
-//    //bootstrap WYSIHTML5 - text editor
-//    $('.textarea').wysihtml5()
-//  })
-//</script>
-//</body>
-//</html>";
+//session_start();
+//if(!isset($_SESSION['afdgashyrhjnb/.;'])){
+//    echo "<meta http-equiv=refresh content=\"0;url=index.php\">";
+//    exit();
+//}
+//if($_SESSION['afdgashyrhjnb/;']!=3){
+//    echo "您无权查看";
+//    echo "<meta http-equiv=refresh content=\"2;url=index.php\">";
+//    exit();
+//}
 //?>
-<!---->
-
-
-
-<?php
-session_start();
-if(!isset($_SESSION['afdgashyrhjnb/.;'])){
-    echo "<meta http-equiv=refresh content=\"0;url=index.php\">";
-    exit();
-}
-?>
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -109,6 +17,7 @@ if(!isset($_SESSION['afdgashyrhjnb/.;'])){
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>AdminLTE 2 | Fixed Layout</title>
     <!-- Tell the browser to be responsive to screen width -->
+    <script href="jquery-1.10.2.js"></script>
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.7 -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -128,31 +37,7 @@ if(!isset($_SESSION['afdgashyrhjnb/.;'])){
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <!-- Bootstrap 3.3.7 -->
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-    <!-- Ionicons -->
-    <link rel="stylesheet" href="bower_components/Ionicons/css/ionicons.min.css">
-    <!-- Theme style -->
-    <link rel="stylesheet" href="dist/css/AdminLTE.min.css">
-    <!-- AdminLTE Skins. Choose a skin from the css/skins
-         folder instead of downloading all of them to reduce the load. -->
-    <link rel="stylesheet" href="dist/css/skins/_all-skins.min.css">
-    <!-- bootstrap wysihtml5 - text editor -->
-    <link rel="stylesheet" href="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Google Font -->
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
     <!-- Google Font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
@@ -332,8 +217,7 @@ if(!isset($_SESSION['afdgashyrhjnb/.;'])){
                         <input type='hidden' name='namex' value='$name'>
                         <br />
                         <input type='submit' style="color: #0b58a2" name='submit' value='退出登录' />
-                    </form>
-                </div>
+                    </form>                </div>
             </div>
             <!-- search form -->
             <form action="#" method="get" class="sidebar-form">
@@ -532,125 +416,104 @@ if(!isset($_SESSION['afdgashyrhjnb/.;'])){
                 Fixed Layout
                 <small>Blank example to the fixed layout</small>
             </h1>
-            <?php
-            session_start();
-            $x=$_GET['id'];
-            //            if(!$_SESSION['afdgashyrhjnb/;']){
-            //                echo "您无权查看";
-            //                echo "<meta http-equiv=refresh content=\"2;url=index.php\">";
-            //                exit();
-            //            }
-            $pageSize=10;//一页显示的条数
-            $link=mysqli_connect("localhost","root","root");
-            if(!$link){
-                echo "link failed";
-                exit();
-            }
-            if(mysqli_select_db($link,"register")){
-            }else{
-                exit();
-            }
-            echo "<!DOCTYPE html>
-<html>
-<head>
-  <meta charset=\"utf-8\">
-  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
-  <title>AdminLTE 2 | Editors</title>
-  <!-- Tell the browser to be responsive to screen width -->
-  <meta content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\" name=\"viewport\">
-  <!-- Bootstrap 3.3.7 -->
-  <link rel=\"stylesheet\" href=\"bower_components/bootstrap/dist/css/bootstrap.min.css\">
-  <!-- Font Awesome -->
-  <link rel=\"stylesheet\" href=\"bower_components/font-awesome/css/font-awesome.min.css\">
-  <!-- Ionicons -->
-  <link rel=\"stylesheet\" href=\"bower_components/Ionicons/css/ionicons.min.css\">
-  <!-- Theme style -->
-  <link rel=\"stylesheet\" href=\"dist/css/AdminLTE.min.css\">
-  <!-- AdminLTE Skins. Choose a skin from the css/skins
-       folder instead of downloading all of them to reduce the load. -->
-  <link rel=\"stylesheet\" href=\"dist/css/skins/_all-skins.min.css\">
-      <script src=\"jquery-1.10.2.js\"></script>
-  <!-- bootstrap wysihtml5 - text editor -->
-  <link rel=\"stylesheet\" href=\"plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css\">
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-  <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>
-  <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>
-  <![endif]-->
-<style>
-</style>
-  <!-- Google Font -->
-  <link rel=\"stylesheet\"
-        href=\"https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic\">
-</head>
-<div align='center'>
-<form>
-</form>
-</div>
-<div class=\"box-body pad\" style=\"float:;\">
-  <form  method= 'post' id='form1' >
-                      题目：<input  class=\"in\" type=\"text\" name=\"title\" style='height: 30px ' autofocus align='center'><br>
-                   分类 <select name='classical' style='height: 30px '>
-                    <option>学习</option>
-                    <option>娱乐</option>
-                    <option>科技</option>
-                    </select>
-                       <script src=\"bower_components/ckeditor/ckeditor.js\"></script>
-<!--    <script type=\"text/javascript\" src=\"ckeditor/ckeditor.js\"></script></head><body>-->
-<form method=\"post\" id='form1' action=\"writeBackstage.php\">
-    <p>
-        My Editor:<br />
-        <textarea id=\"editor1\" name=\"editor1\">&lt;p&gt;Initial value.&lt;/p&gt;</textarea>
-        <script type=\"text/javascript\">
-            
-            
-            CKEDITOR.replace( 'editor1' );   
-            </script>
-    </p>
-    <p>
-        <input type=\"submit\"class=\"btn btn-block btn-info btn-lg\"id='subbmit1' />
-    </p>
-</form>
-  </form>
-<script>
-    $(document).ready(function(){
-        
-        $(\"#subbmit1\").click(function(){//查找id为subbmit1的元素
-        for (instance in CKEDITOR.instances){
-	        CKEDITOR.instances[instance].updateElement();
-	    }
-            $.ajax({
-                url:\"writeBackstage.php\",
-                async:true,
-                type:\"post\",
-                data: $('#form1').serialize(),
-                success:function(result){
-                    alert(result);
-                }});
-       });
-    });
-</script>
-<h1 align=\"center\">  </h1>
-<!-- ./wrapper -->
-<!-- jQuery 3 -->
-<script src=\"bower_components/jquery/dist/jquery.min.js\"></script>
-<!-- Bootstrap 3.3.7 -->
-<script src=\"bower_components/bootstrap/dist/js/bootstrap.min.js\"></script>
-<!-- FastClick -->
-<script src=\"bower_components/fastclick/lib/fastclick.js\"></script>
-<!-- AdminLTE App -->
-<script src=\"dist/js/adminlte.min.js\"></script>
-<!-- AdminLTE for demo purposes -->
-<script src=\"dist/js/demo.js\"></script>
-<!-- CK Editor -->
-<script src=\"bower_components/ckeditor/ckeditor.js\"></script>
-<!-- Bootstrap WYSIHTML5 -->
-<script src=\"plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js\"></script>
-</body>
-</html>";
-            ?>
+            <div class="box box-primary">
+                <div class="box-header with-border">
+                    <h3 class="box-title">Quick Example</h3>
+                </div>
+                <!-- /.box-header -->
+                <!-- form start -->
+                <form role="form" action="mail.php" method="post" id="form1">
+                    <div class="box-body">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Email address</label>
+                            <input type="text" name="emailadd" class="form-control" id="exampleInputEmail1" placeholder="Enter email ">
+                        </div>
+                    </div>
+                    <!-- /.box-body -->
 
+                    <div class="box-footer">
+                        <button type="submit" class="btn btn-primary">发送</button>
+                    </div>
+                </form>
+            </div>
+
+            <script>
+                $(document).ready(function(){
+                    $("button").click(function(){
+                        $.ajax({
+                            url:"mail.php",
+                            async:true,
+                            type:"post",
+                            data: $('#form1').serialize(),
+                            success:function(result){
+                                echo "<script>alert('sucess')<script>/;
+                            }});
+                    });
+                });
+            </script>
+            <?php
+            session_start();//开始session必须放在最上面
+            error_reporting(10);//关闭错误报告
+            /**
+             * Created by PhpStorm.
+             * User: ljl
+             * Date: 2018/6/5
+             * Time: 16:28
+             */
+
+            use PHPMailer\PHPMailer\PHPMailer;
+            use PHPMailer\PHPMailer\Exception;
+
+            require 'PHPMailer-master/PHPMailer.php';
+            require "PHPMailer-master/SMTP.php";
+            $mail = new PHPMailer(true);                              // 通过`true`启用例外
+                //服务器设置
+                $mail->SMTPDebug = 2;                                 // 启用详细的调试输出
+                $mail->isSMTP();                                      // 设置邮件使用SMTP
+                $mail->Host = 'smtp.qq.com';                         // 指定主要和备份SMTP服务器
+                $mail->SMTPAuth = true;                               // 启用SMTP验证
+                $mail->Username = '1834669416@qq.com';                 // SMTP用户名
+                $mail->Password = 'xnhavkomqtqrdcbg';                           // SMTP密码
+                $mail->SMTPSecure = 'tls';                            // 启用TLS加密，`ssl`也接受
+                $mail->Port = 587;                                    // TCP端口连接
+
+
+                //收件人
+               if(isset($_POST['emailadd'])){
+                   $mai=$_POST['emailadd'];
+                   $md5 = md5(trim($_POST['emailadd']));
+                   $token = md5($_POST['emailadd'].$md5);//验证码
+                   $token_exptime = time()+60*60*24;//过期时间
+                       $mail->setFrom('1834669416@qq.com', '是');// 设置发送人信息(参数1：发送人邮箱，参数2：发送人名称)
+                       $mail->addAddress($_POST['emailadd'], '龙哥');     // 添加收件人
+                       /*   $mail->addAddress('124565356@qq.com');      */         // 名称是可选的
+
+                       //附件
+                       // $mail->addAttachment('a1.zip');         // 添加附件
+
+                       //Content
+                       $mail->isHTML(true);                                  // 将电子邮件格式设置为HTML
+                       $mail->Subject = '注册';                       // 邮件主题，即标题
+                       $mail->Body    = "<a href='http://local/register.php?verify=$token'>点击</a>";    //邮件内容
+                       //$mail->AltBody = $_POST['content'];     // 邮件附件信息，可以省略
+                       $mail->send();
+                   }
+            $link = mysqli_connect("localhost", "root", "root");
+            if (!$link) {
+//    echo "link failed";
+                exit();
+            }
+            if (mysqli_select_db($link, "register")) {
+//    echo "xuanzhe成功";
+            } else {
+//    echo "失败";
+                exit();
+            }
+            $status=0;
+            $sql = "insert into mailReg (mail,token,token_exptime,status)  
+values ('$mai','$token','$token_exptime','$status')";
+           $rows= mysqli_query($link,$sql);
+            ?>
             <ol class="breadcrumb">
                 <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
                 <li><a href="#">Layout</a></li>
@@ -889,29 +752,5 @@ if(!isset($_SESSION['afdgashyrhjnb/.;'])){
 <!-- AdminLTE for demo purposes -->
 <script src="dist/js/demo.js"></script>
 </body>
-<!-- ./wrapper -->
-
-<!-- jQuery 3 -->
-<script src="bower_components/jquery/dist/jquery.min.js"></script>
-<!-- Bootstrap 3.3.7 -->
-<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-<!-- FastClick -->
-<script src="bower_components/fastclick/lib/fastclick.js"></script>
-<!-- AdminLTE App -->
-<script src="dist/js/adminlte.min.js"></script>
-<!-- AdminLTE for demo purposes -->
-<script src="dist/js/demo.js"></script>
-<!-- CK Editor -->
-<script src="bower_components/ckeditor/ckeditor.js"></script>
-<!-- Bootstrap WYSIHTML5 -->
-<script src="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
-<script>
-    $(function () {
-        // Replace the <textarea id="editor1"> with a CKEditor
-        // instance, using default configuration.
-        CKEDITOR.replace('editor1')
-        //bootstrap WYSIHTML5 - text editor
-        $('.textarea').wysihtml5()
-    })
-</script>
 </html>
+

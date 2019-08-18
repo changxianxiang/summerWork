@@ -29,6 +29,12 @@ $sql = "CREATE TABLE articals (
  classion varchar(100) NOT NULL,
  time varchar(100) NOT NULL,
  count int(30) NOT NULL)";
+$sql= "CREATE TABLE mailReg ( 
+ id int(10) unsigned NOT NULL auto_increment primary key, 
+ mail varchar(1000)NOT null,
+token varchar(50) NOT NULL, 
+  token_exptime int(10) NOT NULL, 
+  status tinyint(1) NOT NULL DEFAULT '0')";
 $sql = "CREATE TABLE articals ( 
  id int(10) unsigned NOT NULL auto_increment primary key,  
  who varchar(100) NOT NULL,
